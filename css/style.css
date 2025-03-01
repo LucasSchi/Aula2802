@@ -1,0 +1,14 @@
+h2{
+    color:coral;
+}
+body{
+    background-color: rgb(0, 0, 0); 
+    color:white;
+    
+    .texto-vermelho{
+        color: red;
+    }
+    #paragrafo{
+        color:chocolate;
+    }
+}
